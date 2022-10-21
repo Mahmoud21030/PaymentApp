@@ -1,0 +1,10 @@
+﻿  Server.c
+D:\Project-1\PaymentApp\PaymentApp\Server\Server.c(100,22): warning C4476: 'sprintf' : unknown type field character '/' in format specifier
+D:\Project-1\PaymentApp\PaymentApp\Server\Server.c(104,22): warning C4476: 'sprintf' : unknown type field character '/' in format specifier
+D:\Project-1\PaymentApp\PaymentApp\Server\Server.c(220,66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Project-1\PaymentApp\PaymentApp\Server\Server.c(229,19): warning C4476: 'sprintf' : unknown type field character '/' in format specifier
+D:\Project-1\PaymentApp\PaymentApp\Server\Server.c(233,19): warning C4476: 'sprintf' : unknown type field character '/' in format specifier
+D:\Project-1\PaymentApp\PaymentApp\Server\Server.c(482,30): warning C4098: 'saveTransactionTest': 'void' function returning a value
+D:\Project-1\PaymentApp\PaymentApp\Server\Server.c(635,32): warning C4098: 'recieveTransactionDataTest': 'void' function returning a value
+D:\Project-1\PaymentApp\PaymentApp\Server\Server.c(41): warning C4715: 'isBlockedAccount': not all control paths return a value
+  PaymentApp.vcxproj -> D:\Project-1\PaymentApp\x64\Debug\PaymentApp.exe

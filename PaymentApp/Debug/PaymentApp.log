@@ -1,0 +1,7 @@
+﻿  Card.c
+D:\Project-1\PaymentApp\PaymentApp\Card\Card.c(13,2): warning C4013: 'gets' undefined; assuming extern returning int
+  PaymentApp.c
+D:\Project-1\PaymentApp\PaymentApp\PaymentApp.c(18,16): error C2057: expected constant expression
+D:\Project-1\PaymentApp\PaymentApp\PaymentApp.c(18,17): error C2466: cannot allocate an array of constant size 0
+D:\Project-1\PaymentApp\PaymentApp\PaymentApp.c(18,10): error C2133: 'array': unknown size
+  Generating Code...
